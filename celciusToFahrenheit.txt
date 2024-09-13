@@ -1,0 +1,3 @@
+tempC = int(input('Enter a temperature in celcius, and i will convert it into fahrenheit!'))
+tempF = tempC * 1.8 + 32
+print(tempC,'in fahrenheit is', tempF)
